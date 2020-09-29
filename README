@@ -4,4 +4,6 @@
 
 "This is the readme file for the tutorial repository EDITED"
 
-"Change added in  dazzling_feature branch."
+"Change added in dazzling_feature branch."
+
+git checkout dazzling_feature
